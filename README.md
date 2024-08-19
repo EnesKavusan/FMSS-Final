@@ -1,2 +1,1 @@
-# FMSS-Final
-FMSS Business Analyst and Tester Bootcamp Final Case
+I participated in the business analyst and tester bootcamp organized by FMSS (Future Mobile Software Solutions) in partnership with Patika.Dev. Here is the completed version of the analysis and testing phases of the project I worked on during the bootcamp.
